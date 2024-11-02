@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkRubyGit
 - 👀 I’m interested in Game Development & programming
-- 🌱 I’m currently learning GML & c#
+- 🌱 I’m currently learning GML, C# & C
 - 📫 How to reach me matthissmithstoffer@gmail.com
 
 <!---
